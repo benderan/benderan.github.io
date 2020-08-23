@@ -42,12 +42,9 @@
 				<!-- Two -->
 					<section id="two">
 						<h2>Research Projects: Past & Present</h2>
-						<p> Click on the pictures below for more information.</p>
 						<div class="row">
-						  <article class="col-6 col-12-xsmall work-item">
-						                <a href="./spt3g/spt3g.html"><img src="images/thumbs/spt_crop.JPG" alt="" class="image fit thumb" /></a>
-							        <!--<a href="spt3g/spt3g.html" class="image fit thumb"><img src="images/thumbs/spt_crop.JPG" alt="" /></a>
-							        <a href="images/spt_best.JPG" class="image fit thumb"><img src="images/thumbs/spt_crop.JPG" alt="" /></a>-->
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/spt_best.JPG" class="image fit thumb"><img src="images/thumbs/spt_crop.JPG" alt="" /></a>
 								<h3>SPT-3G</h3>
 								<p>SPT-3G is a millimeter-wavelength receiver currently observing on the South Pole Telescope.</p>
 							</article>
@@ -57,17 +54,17 @@
 								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/3greadout_set2.JPG" alt="" /></a>
+								<a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
 								<h3>Readout of Superconducting Detectors</h3>
 								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/sptpol.jpg" alt="" /></a>
+								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
 								<h3>SPTpol</h3>
 								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/apexsz.jpg" alt="" /></a>
+								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
 								<h3>APEX-SZ</h3>
 								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
@@ -484,7 +481,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					</ul>
 -->
 					<ul class="copyright">
-						<li>&copy; Amy N. Bender</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<!--<li>&copy; Untitled</li>--><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</div>
 			</footer>
