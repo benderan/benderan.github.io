@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>About Me</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="../images/bender_headshot.jpg" alt="" /></a>
+					<!--<h1><strong>CMB-S4</strong>--><!--, a super simple<br />
+					responsive site template freebie<br />
+					crafted by <a href="http://html5up.net">HTML5 UP</a>.--></h1>
+				</div>
+				<ul style="list-style: none;">
+                                  <li><h5><a href="../spt3g/spt3g.html">SPT-3G</a></h5></li>
+				  <li><h5><a href="../cmbs4/cmbs4.html">CMB-S4</a></h5></li>
+				  <li><h5><a href="../readout/readout.html">Readout</a></h5></li>
+				  <li><h5><a href="../sptpol/sptpol.html">SPTpol</a></h5></li>
+				  <li><h5><a href="../apexsz/apexsz.html">APEX-SZ</a></h5></li>
+				  <li><h5><a href="../index.html">Home</a></h5></li>
+				</ul>
+
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>Amy Bender<br />
+							</h2>
+						</header>
+						<p>I'm an experimental cosmologist who builds instruments to measure the cosmic microwave background (CMB) and explore the evolution of the universe.  My primary focus for the past several years has been on developing the multiplexing readout systems used to operate the superconducting detectors used in CMB receivers.  These complex readout systems allow many detectors to be operated using a single pair of wires. Thousands of such detectors can then be successfully cooled to sub-Kelvin temperatures where they have exceptional sensitivity to incoming light. I played a leading role in the development of the frequency-domain multiplexed readout for the SPT-3G instrument that is now successfully installed on the South Pole Telescope and observing.  Additional areas of expertise and interest include developing millimeter-wavelength detectors and the cryogenic chambers they operated in as well as techniques for analyzing the resulting data.  I've been lucky enough throughout my career to experience and contribute to most aspects of a CMB experiment, from developing readout and detectors  to installation and operation on a telescope and extracting new astrophysics and cosmology from the resulting data.</p>
+						<p> Now that SPT-3G is  continuously surveying the millimeter-wavelength sky, I have a leadership role in maintaining the instrument's optimal operation through its lifetime.  I'm also working to characterize the instrument properties and their systematic impact on the cosmological measurements.  SPT-3G is surveying 1500 square degrees of sky with its polarization-sensitive receiver. It will be able to make precision measurements of both the E and B mode components of the CMB polarization, further constraining the theory of an inflationary epoch a fraction of a second after the Big Bang, neutrino mass, and the growth  of large-scale structure in the universe.
+						
+						<p>I'm also heavily involved in the CMB-S4 experiment, which aims to field approximately 500,000 superconducting detectors to telescopes observing at both the South Pole and Chile.  The sensitivy of CMB experiments is directly related to the number of detectors, so CMB-S4 will be one of a kind in this respect.  CMB-S4  I'm currently a co-leader for the readout subsystem of CMB-S4.  </p>
+
+						<!--<h2>Education</h2>
+						<ul>
+						  <li>
+						    -->
+					</section>
+
+					
+				<!-- Two -->
+					<!--<section id="two">
+						<h2>Science Goals<h2>
+						<div class="row">
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/spt_best.JPG" class="image fit thumb"><img src="images/thumbs/spt_crop.JPG" alt="" /></a>
+								<h3>SPT-3G</h3>
+								<p>SPT-3G is a millimeter-wavelength receiver currently observing on the South Pole Telescope.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/02.jpg" class="image fit thumb"><img src="images/thumbs/02.jpg" alt="" /></a>
+								<h3>CMB-S4</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
+								<h3>Readout of Superconducting Detectors</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
+								<h3>SPTpol</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
+								<h3>APEX-SZ</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article>
+
+						</div>
+						<!--<ul class="actions">
+							<li><a href="#" class="button">Full Portfolio</a></li>
+						</ul>
+					</section>-->
+					
+					<!-- Three -->
+					<!--<section id="three">
+						<h2>Experiment Design and Project Plan</h2>
+						<div class="row">
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
+								<h3>Under Construction</h3>
+								<p></p>
+							</article>
+						</div>
+					</section>
+					-->
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+				  <!--<ul class="icons">
+				    <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+-->
+					<ul class="copyright">
+						<li>&copy; Amy N. Bender</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.poptrox.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
