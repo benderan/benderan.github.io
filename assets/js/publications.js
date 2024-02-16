@@ -6,7 +6,8 @@ function getRecentPubs()
             var title = data.hits.hits[jrecord].metadata.titles[0].title;
             var arxiv_text = 'arxiv:' + data.hits.hits[jrecord].metadata.arxiv_eprints[0].value;
             var arxiv_link = 'https://arxiv.org/abs/' + data.hits.hits[jrecord].metadata.arxiv_eprints[0].value;
-
+	    var journal_name = '';
+	    var journal_text = '';
 	    if (data.hits.hits[jrecord].metadata.hasOwnProperty('publication_info')) {
                 console.log(data.hits.hits[jrecord].metadata.publication_info);
 		for (kinfo = 0; kinfo < data.hits.hits[jrecord].metadata.publication_info.length; kinfo++){
