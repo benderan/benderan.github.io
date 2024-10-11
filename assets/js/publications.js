@@ -4,8 +4,12 @@ function getRecentPubs()
     $.get('https://inspirehep.net/api/literature?sort=mostrecent&size=10&q=find a Amy N Bender', function(data) {
         for (jrecord = 0; jrecord < data.hits.hits.length; jrecord++) {
             var title = data.hits.hits[jrecord].metadata.titles[0].title;
-            var arxiv_text = 'arxiv:' + data.hits.hits[jrecord].metadata.arxiv_eprints[0].value;
-            var arxiv_link = 'https://arxiv.org/abs/' + data.hits.hits[jrecord].metadata.arxiv_eprints[0].value;
+            var arxiv_text = '';
+            var arxiv_link = '';
+	    if (data.hits.hits[jrecord].metadata.hasOwnProperty('arxiv_eprints')){
+		var arxiv_text = 'arxiv:' + data.hits.hits[jrecord].metadata.arxiv_eprints[0].value;
+		var arxiv_link = 'https://arxiv.org/abs/' + data.hits.hits[jrecord].metadata.arxiv_eprints[0].value;
+	    }
 	    var journal_name = '';
 	    var journal_text = '';
 	    if (data.hits.hits[jrecord].metadata.hasOwnProperty('publication_info')) {
